@@ -21,7 +21,6 @@ function officialLanguage() {
  dialect1();
  dialect2();
 
-d
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
