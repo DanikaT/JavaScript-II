@@ -1,5 +1,25 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
+let mainLanguage = "Spanish";
+
+function officialLanguage() {
+  const castellano = "hablamos Castellano";
+  console.log(`En Espana ${castellano}`);
+}
+
+ function dialect1() {
+   const Valenciano = "hablamos Valenciano";
+   console.log(`En la comunidad Valencia ${Valenciano}`);
+ }
+  
+    function dialect2() {
+   const Catalan = "hablamos Catalan";
+   console.log(`En Catalonia ${Catalan}`);
+ }
+
+ officialLanguage();
+ dialect1();
+ dialect2();
 
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
